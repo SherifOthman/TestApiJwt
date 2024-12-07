@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|c:\\users\\huawe\\source\\repos\\testapijwt\\testapijwt\\testapijwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BBD3DC6-8218-4DAB-848E-C837D290C75D}|TestApiJwt\\TestApiJwt.csproj|solutionrelative:testapijwt\\testapijwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TestApiJwt\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\WeatherForecast.cs",
+              "RelativeToolTip": "TestApiJwt\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:09:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TestApiJwt\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "TestApiJwt\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:58:25.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TestApiJwt\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "TestApiJwt\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:37:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestApiJwt.csproj",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\TestApiJwt.csproj",
+              "RelativeDocumentMoniker": "TestApiJwt\\TestApiJwt.csproj",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\TestApiJwt.csproj",
+              "RelativeToolTip": "TestApiJwt\\TestApiJwt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T15:41:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TestApiJwt\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TestApiJwt\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:45:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Program.cs",
+              "RelativeDocumentMoniker": "TestApiJwt\\Program.cs",
+              "ToolTip": "C:\\Users\\huawe\\source\\repos\\TestApiJwt\\TestApiJwt\\Program.cs",
+              "RelativeToolTip": "TestApiJwt\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:01:29.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
